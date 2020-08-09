@@ -4,7 +4,7 @@
     "pages/category/index",
     "pages/goods_list/index",
     "pages/goods_detail/index",
-    "pages/cart/index", 
+    "pages/cart/index",
     "pages/collect/index",
     "pages/order/index",
     "pages/search/index",
@@ -53,6 +53,5 @@
     }
   ]
   },
-  "style": "v2",
   "sitemapLocation": "sitemap.json"
 }
